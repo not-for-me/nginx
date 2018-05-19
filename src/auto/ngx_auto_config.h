@@ -1,4 +1,4 @@
-#define NGX_CONFIGURE " --prefix=/Users/admin/u51/learn/workspace/clion/nginx/build"
+#define NGX_CONFIGURE " --prefix=/Users/woojin/nginx/build"
 
 #ifndef NGX_COMPILER
 #define NGX_COMPILER  "clang 9.0.0 (clang-900.0.38)"
@@ -289,7 +289,7 @@
 
 
 #ifndef NGX_PREFIX
-#define NGX_PREFIX  "/Users/admin/u51/learn/workspace/clion/nginx/build/"
+#define NGX_PREFIX  "/Users/woojin/nginx/build/"
 #endif
 
 
